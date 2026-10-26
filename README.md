@@ -46,4 +46,4 @@ npx mcp-timezone
 
 ## License
 
-MIT
+Apache-2.0
